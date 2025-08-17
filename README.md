@@ -1,6 +1,6 @@
 ```sh
-git clone https://github.com/GPT-Engineer-App/turn-based-chess-duel.git
-cd turn-based-chess-duel
+git clone https://github.com/Yunoziko/Futuristic-Chess
+cd Futuristic-Chess
 npm i
 
 # This will run a dev server with auto reloading and an instant preview.
